@@ -1,0 +1,20 @@
+{
+  "name": "playlister",
+  "version": "1.0.0",
+  "description": "playlist making website",
+  "homepage": "https://github.com/CountyClerks/Playlister#readme",
+  "bugs": {
+    "url": "https://github.com/CountyClerks/Playlister/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CountyClerks/Playlister.git"
+  },
+  "license": "ISC",
+  "author": "Clerk",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
